@@ -1,0 +1,769 @@
+<?xml version="1.0"?>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 100 100" version="1.1" xml:space="preserve">
+ <style type="text/css">.st0{fill:#FF5F1E;}
+	.style1{fill:#FFF8ED;}
+	.color2{fill:#FF5F1E;}
+	.st1{display:none;}
+	.st2{fill:none;}
+	.st3{enable-background:new    ;}
+	.st4{fill:#90C73E;}
+	.st5{fill:#FFF8ED;}</style>
+ <symbol id="_x31__1_" viewBox="-0.4 -1.3 0.7 2.7">
+  <polygon class="color2" id="svg_1" points="0.4,-1.3 -0.4,-1.3 -0.4,1.3 0.4,1.3  "/>
+ </symbol>
+ <symbol id="_x31_0_1_" viewBox="-1.7 -1.9 3.4 3.7">
+  <polygon class="color2" id="svg_2" points="1.7,1.9 0,-1.9 -1.7,1.9  "/>
+ </symbol>
+ <symbol id="_x35__1_" viewBox="-0.7 -1.6 1.3 3.3">
+  <polygon class="color2" id="svg_3" points="0.7,-1.6 -0.7,-1.6 -0.7,1.6 0.7,1.6  "/>
+ </symbol>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g class="st1" id="guides"/>
+  <g id="bg_2_">
+   <rect class="color2" height="100" id="bg_1_" width="100"/>
+   <circle class="style1" cx="50" cy="50" id="bf-face" r="33.3"/>
+  </g>
+  <g id="text">
+   <g id="Text">
+    <g id="svg_4">
+     <path class="st0" d="m37.2,35.8l-0.3,0l0,-1.4c-0.1,0 -0.1,0.1 -0.3,0.1s-0.2,0.1 -0.3,0.1l0,-0.2c0.1,-0.1 0.3,-0.1 0.4,-0.2s0.3,-0.1 0.3,-0.2l0.2,0l0,1.8z" id="svg_5"/>
+    </g>
+    <g id="svg_6">
+     <path class="st0" d="m38.3,35.3l0,-0.3l0.8,0l0,0.2l-0.8,0l0,0.1z" id="svg_7"/>
+    </g>
+    <g id="svg_8">
+     <path class="st0" d="m41.5,35.2l0.3,0.1c-0.1,0.2 -0.2,0.3 -0.3,0.4c-0.2,0.1 -0.3,0.1 -0.6,0.1c-0.2,0 -0.4,0 -0.6,-0.1s-0.3,-0.2 -0.3,-0.3s-0.1,-0.3 -0.1,-0.5c0,-0.2 0,-0.3 0.1,-0.5c0.1,-0.1 0.2,-0.2 0.4,-0.3c0.2,-0.1 0.3,-0.1 0.5,-0.1c0.2,0 0.4,0 0.5,0.1c0.1,0.1 0.3,0.2 0.3,0.4l-0.3,0.1c-0.1,-0.1 -0.1,-0.2 -0.2,-0.3c-0.1,-0.1 -0.2,-0.1 -0.4,-0.1c-0.2,0 -0.3,0 -0.4,0.1s-0.2,0.2 -0.2,0.3c0,0.1 -0.1,0.2 -0.1,0.3c0,0.1 0,0.3 0.1,0.4c0.1,0.1 0.1,0.2 0.3,0.2c0.1,0.1 0.2,0.1 0.4,0.1c0.2,0 0.3,0 0.4,-0.1s0.1,-0.2 0.2,-0.3z" id="svg_9"/>
+    </g>
+    <g id="svg_10">
+     <path class="st0" d="m42.6,35.8l0,-1.8l0.3,0l0,1.5l1.1,0l0,0.2l-1.4,0l0,0.1z" id="svg_11"/>
+    </g>
+    <g id="svg_12">
+     <path class="st0" d="m44.8,35.8l0,-1.8l0.3,0l0,1.7l-0.3,0l0,0.1z" id="svg_13"/>
+    </g>
+    <g id="svg_14">
+     <path class="st0" d="m47.6,35.2l0.3,0.1c-0.1,0.2 -0.2,0.3 -0.3,0.4c-0.2,0.1 -0.3,0.1 -0.6,0.1c-0.2,0 -0.4,0 -0.6,-0.1s-0.3,-0.2 -0.3,-0.3s-0.1,-0.3 -0.1,-0.5c0,-0.2 0,-0.3 0.1,-0.5c0.1,-0.1 0.2,-0.2 0.4,-0.3c0.1,-0.1 0.3,-0.1 0.5,-0.1c0.2,0 0.4,0 0.5,0.1c0.1,0.1 0.3,0.2 0.3,0.4l-0.3,0.1c-0.1,-0.1 -0.1,-0.2 -0.2,-0.3c-0.1,-0.1 -0.2,-0.1 -0.4,-0.1c-0.2,0 -0.3,0 -0.4,0.1s-0.2,0.2 -0.2,0.3c0,0.1 -0.1,0.2 -0.1,0.3c0,0.1 0,0.3 0.1,0.4c0.1,0.1 0.1,0.2 0.3,0.2c0.1,0.1 0.2,0.1 0.4,0.1c0.2,0 0.3,0 0.4,-0.1s0.1,-0.2 0.2,-0.3z" id="svg_15"/>
+    </g>
+    <g id="svg_16">
+     <path class="st0" d="m48.7,35.8l0,-1.8l0.3,0l0,0.9l1,-0.9l0.4,0l-0.9,0.7l1,1l-0.4,0l-0.8,-0.9l-0.3,0.4l0,0.6l-0.3,0z" id="svg_17"/>
+    </g>
+    <g id="svg_18"/>
+    <g id="svg_19">
+     <path class="st0" d="m53,35.8l0,-1.5l-0.7,0l0,-0.3l1.7,0l0,0.2l-0.7,0l0,1.5l-0.3,0l0,0.1z" id="svg_20"/>
+    </g>
+    <g id="svg_21">
+     <path class="st0" d="m54.8,35.8l0,-1.8l0.3,0l0,1.7l-0.3,0l0,0.1z" id="svg_22"/>
+    </g>
+    <g id="svg_23">
+     <path class="st0" d="m56,35.8l0,-1.8l0.4,0l0.5,1.2c0,0.1 0.1,0.2 0.1,0.3c0,-0.1 0.1,-0.2 0.1,-0.3l0.5,-1.2l0.4,0l0,1.7l-0.3,0l0,-1.5l-0.6,1.5l-0.3,0l-0.6,-1.5l0,1.5l-0.2,0l0,0.1z" id="svg_24"/>
+    </g>
+    <g id="svg_25">
+     <path class="st0" d="m59,35.8l0,-1.8l1.6,0l0,0.2l-1.3,0l0,0.5l1.2,0l0,0.3l-1.2,0l0,0.6l1.3,0l0,0.2l-1.6,0z" id="svg_26"/>
+    </g>
+    <g id="svg_27">
+     <path class="st0" d="m61.5,35.8l0,-1.8l1,0c0.2,0 0.3,0 0.4,0c0.1,0 0.2,0.1 0.2,0.2c0.1,0.1 0.1,0.2 0.1,0.3c0,0.1 0,0.2 -0.2,0.3c0,0.1 -0.1,0.2 -0.4,0.2c0.1,0 0.1,0.1 0.2,0.1c0.1,0.1 0.2,0.1 0.2,0.2l0.4,0.5l-0.4,0l-0.3,-0.4c-0.1,-0.1 -0.2,-0.2 -0.2,-0.2s-0.1,-0.1 -0.1,-0.1c0,0 -0.1,0 -0.1,0c0,0 -0.1,0 -0.2,0l-0.3,0l0,0.8l-0.3,0l0,-0.1zm0.3,-1l0.6,0c0.1,0 0.2,0 0.3,0c0.1,0 0.1,-0.1 0.2,-0.1c0,0 0.1,-0.1 0.1,-0.2c0,-0.1 0,-0.1 -0.1,-0.2c-0.1,-0.1 -0.2,-0.1 -0.4,-0.1l-0.7,0l0,0.6z" id="svg_28"/>
+    </g>
+    <g id="svg_29">
+     <path class="st0" d="m30.7,38.7l0.8,-1.7l0.3,0l0.9,1.7l-0.3,0l-0.3,-0.5l-0.9,0l-0.2,0.5l-0.3,0zm0.6,-0.7l0.7,0l-0.2,-0.5c-0.1,-0.1 -0.1,-0.3 -0.2,-0.4c0,0.1 -0.1,0.2 -0.1,0.3l-0.2,0.6z" id="svg_30"/>
+    </g>
+    <g id="svg_31">
+     <path class="st0" d="m33.4,38.7l0,-1.7l0.3,0l1.1,1.4l0,-1.4l0.3,0l0,1.7l-0.3,0l-1.1,-1.4l0,1.4l-0.3,0z" id="svg_32"/>
+    </g>
+    <g id="svg_33">
+     <path class="st0" d="m36.6,38.7l0,-1.5l-0.7,0l0,-0.2l1.7,0l0,0.2l-0.7,0l0,1.5l-0.3,0z" id="svg_34"/>
+    </g>
+    <g id="svg_35">
+     <path class="st0" d="m38.4,38.7l0,-1.7l0.3,0l0,1.7l-0.3,0z" id="svg_36"/>
+    </g>
+    <g id="svg_37"/>
+    <g id="svg_38">
+     <path class="st0" d="m41,38.7l0,-1.7l0.8,0c0.2,0 0.3,0 0.4,0c0.1,0 0.2,0.1 0.3,0.1c0.1,0.1 0.2,0.2 0.3,0.3c0.1,0.1 0.1,0.3 0.1,0.4c0,0.1 0,0.2 -0.1,0.4c0,0.1 -0.1,0.2 -0.1,0.3c-0.1,0.1 -0.1,0.1 -0.2,0.2c-0.1,0 -0.2,0.1 -0.3,0.1c-0.1,0 -0.2,0 -0.4,0l-0.8,0l0,-0.1zm0.3,-0.2l0.5,0c0.1,0 0.3,0 0.3,0c0.1,0 0.1,-0.1 0.2,-0.1c0.1,-0.1 0.1,-0.1 0.2,-0.2s0.1,-0.2 0.1,-0.3c0,-0.2 0,-0.3 -0.1,-0.4c-0.1,-0.1 -0.2,-0.2 -0.3,-0.2c-0.1,0 -0.2,0 -0.4,0l-0.5,0l0,1.2z" id="svg_39"/>
+    </g>
+    <g id="svg_40">
+     <path class="st0" d="m43.7,38.7l0,-1.7l1.6,0l0,0.2l-1.3,0l0,0.5l1.2,0l0,0.2l-1.2,0l0,0.6l1.3,0l0,0.2l-1.6,0z" id="svg_41"/>
+    </g>
+    <g id="svg_42">
+     <path class="st0" d="m46.1,38.7l0,-1.7l0.3,0l0,1.5l1.1,0l0,0.2l-1.4,0z" id="svg_43"/>
+    </g>
+    <g id="svg_44">
+     <path class="st0" d="m48,38.7l0.8,-1.7l0.3,0l0.9,1.7l-0.3,0l-0.3,-0.5l-0.9,0l-0.2,0.5l-0.3,0zm0.7,-0.7l0.7,0l-0.2,-0.5c-0.1,-0.1 -0.1,-0.3 -0.2,-0.4c0,0.1 -0.1,0.2 -0.1,0.3l-0.2,0.6z" id="svg_45"/>
+    </g>
+    <g id="svg_46">
+     <path class="st0" d="m51.2,38.7l0,-0.7l-0.8,-1l0.4,0l0.4,0.5c0.1,0.1 0.2,0.2 0.2,0.3c0.1,-0.1 0.1,-0.2 0.2,-0.3l0.4,-0.5l0.3,0l-0.9,1l0,0.7l-0.2,0z" id="svg_47"/>
+    </g>
+    <g id="svg_48"/>
+    <g id="svg_49">
+     <path class="st0" d="m54.2,38.1l0.3,0c0,0.1 0,0.2 0.1,0.2c0,0.1 0.1,0.1 0.2,0.1c0.1,0 0.2,0.1 0.3,0.1c0.1,0 0.2,0 0.3,0s0.1,-0.1 0.2,-0.1c0,0 0.1,-0.1 0.1,-0.1c0,-0.1 0,-0.1 -0.1,-0.1s-0.1,-0.2 -0.2,-0.2c-0.1,0 -0.2,0 -0.4,-0.1c-0.2,0 -0.3,-0.1 -0.4,-0.1c-0.1,0 -0.2,-0.1 -0.2,-0.2c-0.1,-0.1 -0.1,-0.1 -0.1,-0.2c0,-0.1 0,-0.2 0.1,-0.2s0.2,-0.1 0.3,-0.2c0.1,0 0.3,-0.1 0.4,-0.1c0.2,0 0.3,0 0.4,0.1c0.1,0 0.2,0.1 0.3,0.2c0.1,0.1 0.1,0.2 0.1,0.3l-0.3,0c0,-0.1 -0.1,-0.2 -0.2,-0.2s-0.2,-0.1 -0.4,-0.1c-0.2,0 -0.3,0 -0.4,0.1s-0.1,0.1 -0.1,0.2c0,0.1 0,0.1 0.1,0.2s0.2,0.1 0.4,0.1s0.4,0.1 0.5,0.1c0.1,0 0.2,0.1 0.3,0.2c0.1,0.1 0.1,0.2 0.1,0.2c0,0.1 0,0.2 -0.1,0.3s-0.2,0.1 -0.3,0.2c-0.1,0 -0.3,0.1 -0.4,0.1c-0.2,0 -0.4,0 -0.5,-0.1c-0.1,0 -0.2,-0.1 -0.3,-0.2c-0.1,-0.2 -0.1,-0.3 -0.1,-0.5z" id="svg_50"/>
+    </g>
+    <g id="svg_51">
+     <path class="st0" d="m57.4,38.7l0,-0.7l-0.8,-1l0.4,0l0.4,0.5c0.1,0.1 0.2,0.2 0.2,0.3c0.1,-0.1 0.1,-0.2 0.2,-0.3l0.4,-0.5l0.3,0l-0.9,1l0,0.7l-0.2,0z" id="svg_52"/>
+    </g>
+    <g id="svg_53">
+     <path class="st0" d="m59.2,38.1l0.3,0c0,0.1 0,0.2 0.1,0.2c0,0.1 0.1,0.1 0.2,0.1c0.1,0 0.2,0.1 0.3,0.1c0.1,0 0.2,0 0.3,0s0.1,-0.1 0.2,-0.1c0,0 0.1,-0.1 0.1,-0.1c0,-0.1 0,-0.1 -0.1,-0.1s-0.2,-0.2 -0.2,-0.2c-0.1,0 -0.2,0 -0.4,-0.1c-0.2,0 -0.3,-0.1 -0.4,-0.1c-0.1,0 -0.2,-0.1 -0.2,-0.2c-0.1,-0.1 -0.1,-0.1 -0.1,-0.2c0,-0.1 0,-0.2 0.1,-0.2s0.2,-0.1 0.3,-0.2c0.1,0 0.3,-0.1 0.4,-0.1c0.2,0 0.3,0 0.4,0.1c0.1,0 0.2,0.1 0.3,0.2c0.1,0.1 0.1,0.2 0.1,0.3l-0.3,0c0,-0.1 -0.1,-0.2 -0.2,-0.2s-0.2,-0.1 -0.4,-0.1c-0.2,0 -0.3,0 -0.4,0.1s-0.1,0.1 -0.1,0.2c0,0.1 0,0.1 0.1,0.2s0.2,0.1 0.4,0.1s0.4,0.1 0.5,0.1c0.1,0 0.2,0.1 0.3,0.2c0.1,0.1 0.1,0.2 0.1,0.2c0,0.1 0,0.2 -0.1,0.3s-0.2,0.1 -0.3,0.2c-0.1,0 -0.3,0.1 -0.4,0.1c-0.2,0 -0.4,0 -0.5,-0.1c-0.1,0 -0.2,-0.1 -0.3,-0.2c-0.1,-0.2 -0.1,-0.3 -0.1,-0.5z" id="svg_54"/>
+    </g>
+    <g id="svg_55">
+     <path class="st0" d="m62.3,38.7l0,-1.5l-0.7,0l0,-0.2l1.7,0l0,0.2l-0.7,0l0,1.5l-0.3,0z" id="svg_56"/>
+    </g>
+    <g id="svg_57">
+     <path class="st0" d="m64.1,38.7l0,-1.7l1.6,0l0,0.2l-1.3,0l0,0.5l1.2,0l0,0.2l-1.2,0l0,0.6l1.3,0l0,0.2l-1.6,0z" id="svg_58"/>
+    </g>
+    <g id="svg_59">
+     <path class="st0" d="m66.5,38.7l0,-1.7l0.5,0l0.5,1.2c0,0.1 0.1,0.2 0.1,0.3c0,-0.1 0.1,-0.2 0.1,-0.3l0.5,-1.2l0.4,0l0,1.7l-0.3,0l0,-1.5l-0.6,1.5l-0.3,0l-0.6,-1.5l0,1.5l-0.3,0z" id="svg_60"/>
+    </g>
+    <g id="svg_61">
+     <g id="svg_62">
+      <circle class="color2" cx="49.2" cy="25.1" id="svg_63" r="0.7"/>
+      <circle class="color2" cx="50.8" cy="25.1" id="svg_64" r="0.7"/>
+      <polygon class="color2" id="svg_65" points="46.2,27.7 43,27.7 43.9,29 47,29     "/>
+      <polygon class="color2" id="svg_66" points="53.1,29 56.1,29 57,27.7 53.9,27.7     "/>
+      <polygon class="color2" id="svg_67" points="47.3,29.7 44.3,29.7 45.1,31 48.1,31     "/>
+      <polygon class="color2" id="svg_68" points="51.9,31 54.9,31 55.7,29.7 52.7,29.7     "/>
+      <polygon class="color2" id="svg_69" points="46.6,27.1 48.8,31 50,29 51.2,31 53.5,27.1 57.4,27.1 58.2,25.7 52.7,25.7 51.2,28.4 50,26.5       48.9,28.4 47.4,25.7 41.8,25.7 42.6,27.1     "/>
+     </g>
+     <g id="svg_70">
+      <circle class="color2" cx="49.2" cy="25.1" id="svg_71" r="0.7"/>
+      <circle class="color2" cx="50.8" cy="25.1" id="svg_72" r="0.7"/>
+      <polygon class="color2" id="svg_73" points="46.2,27.7 43,27.7 43.9,29 47,29     "/>
+      <polygon class="color2" id="svg_74" points="53.1,29 56.1,29 57,27.7 53.9,27.7     "/>
+      <polygon class="color2" id="svg_75" points="47.3,29.7 44.3,29.7 45.1,31 48.1,31     "/>
+      <polygon class="color2" id="svg_76" points="51.9,31 54.9,31 55.7,29.7 52.7,29.7     "/>
+      <polygon class="color2" id="svg_77" points="46.6,27.1 48.8,31 50,29 51.2,31 53.5,27.1 57.4,27.1 58.2,25.7 52.7,25.7 51.2,28.4 50,26.5       48.9,28.4 47.4,25.7 41.8,25.7 42.6,27.1     "/>
+     </g>
+    </g>
+    <circle class="st2" cx="50" cy="50" id="svg_78" r="28.7"/>
+    <g id="svg_79">
+     <path class="st0" d="m39.4,76.7l0.5,-1.3l0.3,0.1l0,1c0,0.1 0,0.2 0,0.2c0,0 0.1,-0.1 0.1,-0.2l0.6,-0.8l0.2,0.1l-0.5,1.3l-0.2,-0.1l0.4,-1.1l-0.8,0.9l0,0.1l0,-1.2l-0.4,1.1l-0.2,-0.1z" id="svg_80"/>
+    </g>
+    <g id="svg_81">
+     <path class="st0" d="m41.2,77.3l0.9,-1.2l0.2,0.1l0.1,1.5l-0.2,-0.1l0,-0.4l-0.6,-0.2l-0.3,0.4l-0.1,-0.1zm0.5,-0.4l0.5,0.1l0,-0.4c0,-0.1 0,-0.2 0,-0.3c0,0.1 -0.1,0.2 -0.1,0.2l-0.4,0.4z" id="svg_82"/>
+    </g>
+    <g id="svg_83">
+     <path class="st0" d="m42.9,77.8l0.3,-1.3l0.5,0.1c0.1,0 0.2,0 0.2,0.1c0.1,0 0.1,0.1 0.2,0.1c0.1,0.1 0.1,0.2 0.1,0.3c0,0.1 0,0.2 0,0.3c0,0.1 -0.1,0.2 -0.1,0.3c0,0.1 -0.1,0.1 -0.1,0.2s-0.1,0.1 -0.2,0.1c-0.1,0 -0.1,0 -0.2,0c-0.1,0 -0.1,0 -0.2,0l-0.5,-0.2zm0.2,-0.1l0.3,0.1c0.1,0 0.2,0 0.2,0c0.1,0 0.1,0 0.1,0c0.1,0 0.1,-0.1 0.1,-0.1c0,-0.1 0.1,-0.1 0.1,-0.3c0,-0.1 0,-0.3 0,-0.3c0,-0.1 -0.1,-0.2 -0.1,-0.2c0,0 -0.1,-0.1 -0.2,-0.1l-0.3,-0.1l-0.2,1z" id="svg_84"/>
+    </g>
+    <g id="svg_85">
+     <path class="st0" d="m44.6,78.2l0.2,-1.4l1,0.2l0,0.2l-0.8,-0.2l-0.1,0.4l0.8,0.1l0,0.2l-0.8,-0.1l-0.1,0.5l0.8,0.1l0,0.2l-1,-0.2z" id="svg_86"/>
+    </g>
+    <g class="st3" id="svg_87"/>
+    <g id="svg_88">
+     <path class="st0" d="m47.1,78.5l0.1,-1.4l0.2,0l-0.1,1.4l-0.2,0z" id="svg_89"/>
+    </g>
+    <g id="svg_90">
+     <path class="st0" d="m47.9,78.6l0.1,-1.4l0.2,0l0.7,1.1l0.1,-1.1l0.2,0l-0.2,1.5l-0.2,0l-0.7,-1.1l-0.1,1.1l-0.1,-0.1z" id="svg_91"/>
+    </g>
+    <g class="st3" id="svg_92"/>
+    <g id="svg_93">
+     <path class="st0" d="m50.4,78.3l0.2,0c0,0.1 0,0.1 0.1,0.2c0,0 0.1,0.1 0.1,0.1c0.1,0 0.1,0 0.2,0c0.1,0 0.1,0 0.2,0c0.1,0 0.1,-0.1 0.1,-0.1c0,0 0,-0.1 0,-0.1c0,0 0,-0.1 0,-0.1s-0.1,-0.1 -0.1,-0.1c0,0 -0.1,0 -0.2,-0.1c-0.1,0 -0.2,-0.1 -0.3,-0.1c-0.1,0 -0.1,-0.1 -0.2,-0.1c0,0 -0.1,-0.1 -0.1,-0.2c0,-0.1 0,-0.1 0.1,-0.2c0,-0.1 0.1,-0.1 0.2,-0.1c0.1,0 0.2,-0.1 0.3,-0.1c0.1,0 0.2,0 0.3,0c0.1,0 0.1,0.1 0.2,0.1c0,0.1 0.1,0.1 0.1,0.2l-0.2,0c0,-0.1 0,-0.2 -0.1,-0.2s-0.1,-0.1 -0.2,-0.1c-0.1,0 -0.2,0 -0.2,0.1c0,0 -0.1,0.1 -0.1,0.1c0,0 0,0.1 0.1,0.1c0,0 0.1,0.1 0.3,0.1c0.1,0 0.3,0.1 0.3,0.1c0.1,0 0.1,0.1 0.2,0.1s0.1,0.1 0.1,0.2c0,0.1 0,0.1 -0.1,0.2c0,0.1 -0.1,0.1 -0.2,0.2c-0.1,0 -0.2,0.1 -0.3,0.1c-0.1,0 -0.2,0 -0.3,0s-0.2,-0.1 -0.2,-0.2s-0.3,-0.1 -0.3,-0.1z" id="svg_94"/>
+    </g>
+    <g id="svg_95">
+     <path class="st0" d="m52.4,78.6l-0.5,-1.3l0.2,0l0.3,0.9c0,0.1 0.1,0.2 0.1,0.3c0,-0.2 0,-0.2 0,-0.3l0.2,-1l0.2,0l0.3,0.7c0.1,0.2 0.1,0.3 0.2,0.5c0,-0.1 0,-0.2 0,-0.3l0.1,-0.9l0.2,0l-0.2,1.4l-0.2,0l-0.4,-1c0,-0.1 -0.1,-0.1 -0.1,-0.2c0,0.1 0,0.1 0,0.2l-0.2,1.1l-0.2,-0.1z" id="svg_96"/>
+    </g>
+    <g id="svg_97">
+     <path class="st0" d="m54.4,78.4l-0.3,-1.4l1,-0.2l0,0.2l-0.8,0.1l0.1,0.4l0.8,-0.1l0,0.2l-0.8,0.1l0.1,0.5l0.8,-0.1l0,0.2l-0.9,0.1z" id="svg_98"/>
+    </g>
+    <g id="svg_99">
+     <path class="st0" d="m56,78.1l-0.3,-1.3l0.5,-0.1c0.1,0 0.2,0 0.2,0c0.1,0 0.2,0 0.2,0.1c0.1,0 0.2,0.1 0.2,0.2c0.1,0.1 0.1,0.2 0.1,0.3c0,0.1 0,0.2 0,0.3c0,0.1 0,0.2 0,0.2c0,0.1 -0.1,0.1 -0.1,0.2c0,0 -0.1,0.1 -0.1,0.1c-0.1,0 -0.1,0.1 -0.2,0.1l-0.5,-0.1zm0.1,-0.2l0.3,-0.1c0.1,0 0.2,0 0.2,-0.1c0,0 0.1,-0.1 0.1,-0.1c0,-0.1 0.1,-0.1 0.1,-0.2c0,-0.1 0,-0.2 0,-0.3c0,-0.1 -0.1,-0.2 -0.1,-0.3c-0.1,-0.1 -0.1,-0.1 -0.2,-0.1c-0.1,0 -0.1,0 -0.2,0l-0.3,0.1l0.1,1.1z" id="svg_100"/>
+    </g>
+    <g id="svg_101">
+     <path class="st0" d="m57.7,77.7l-0.4,-1.3l1,-0.3l0,0.2l-0.8,0.2l0.1,0.4l0.7,-0.2l0,0.2l-0.6,0.1l0.1,0.5l0.8,-0.2l0,0.2l-0.9,0.2z" id="svg_102"/>
+    </g>
+    <g id="svg_103">
+     <path class="st0" d="m59.2,77.2l-0.5,-1.3l0.2,-0.1l1.1,0.8l-0.4,-1l0.2,-0.1l0.5,1.3l-0.2,0.1l-1.1,-0.8l0.4,1l-0.2,0.1z" id="svg_104"/>
+    </g>
+   </g>
+  </g>
+  <g id="_x35_">
+   <use height="3.3" id="svg_105" overflow="visible" transform="matrix(0.866 -0.5 -0.5 -0.866 34.4742 23.1086)" width="1.3" x="-0.7" xlink:href="#_x35__1_" y="-1.6"/>
+   <use height="3.3" id="svg_106" overflow="visible" transform="matrix(4.489653e-011 -1 -1 -4.489653e-011 18.9485 50)" width="1.3" x="-0.7" xlink:href="#_x35__1_" y="-1.6"/>
+   <use height="3.3" id="svg_107" overflow="visible" transform="matrix(-0.866 -0.5 -0.5 0.866 34.4742 76.8914)" width="1.3" x="-0.7" xlink:href="#_x35__1_" y="-1.6"/>
+   <use height="3.3" id="svg_108" overflow="visible" transform="matrix(-0.866 0.5 0.5 0.866 65.5258 76.8914)" width="1.3" x="-0.7" xlink:href="#_x35__1_" y="-1.6"/>
+   <use height="3.3" id="svg_109" overflow="visible" transform="matrix(-1.346896e-010 1 1 1.346896e-010 81.0515 50)" width="1.3" x="-0.7" xlink:href="#_x35__1_" y="-1.6"/>
+   <use height="3.3" id="svg_110" overflow="visible" transform="matrix(0.866 0.5 0.5 -0.866 65.5258 23.1086)" width="1.3" x="-0.7" xlink:href="#_x35__1_" y="-1.6"/>
+  </g>
+  <g id="_x31_">
+   <g id="n1_1_">
+    <g id="svg_111">
+     <g id="svg_112">
+      <rect class="color2" height="2.7" id="svg_113" transform="matrix(0.9945 -0.1045 0.1045 0.9945 -1.7113 4.987)" width="0.7" x="46.4" y="17.5"/>
+     </g>
+    </g>
+    <g id="svg_114">
+     <use height="2.7" id="svg_115" overflow="visible" transform="matrix(0.9945 -0.1045 -0.1045 -0.9945 46.7229 18.82)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_3_">
+    <g id="svg_116">
+     <g id="svg_117">
+      <rect class="color2" height="2.7" id="svg_118" transform="matrix(0.9781 -0.2079 0.2079 0.9781 -3.0694 9.4628)" width="0.7" x="43.1" y="18"/>
+     </g>
+    </g>
+    <g id="svg_119">
+     <use height="2.7" id="svg_120" overflow="visible" transform="matrix(0.9781 -0.2079 -0.2079 -0.9781 43.4816 19.3334)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_4_">
+    <g id="svg_121">
+     <g id="svg_122">
+      <rect class="color2" height="2.7" id="svg_123" transform="matrix(0.9511 -0.309 0.309 0.9511 -4.2638 13.4448)" width="0.7" x="40" y="18.8"/>
+     </g>
+    </g>
+    <g id="svg_124">
+     <use height="2.7" id="svg_125" overflow="visible" transform="matrix(0.9511 -0.309 -0.309 -0.9511 40.3118 20.1828)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_6_">
+    <g id="svg_126">
+     <g id="svg_127">
+      <rect class="color2" height="2.7" id="svg_128" transform="matrix(0.9135 -0.4067 0.4067 0.9135 -5.4671 16.9967)" width="0.7" x="36.9" y="20"/>
+     </g>
+    </g>
+    <g id="svg_129">
+     <use height="2.7" id="svg_130" overflow="visible" transform="matrix(0.9135 -0.4067 -0.4067 -0.9135 37.2481 21.3588)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_10_">
+    <g id="svg_131">
+     <g id="svg_132">
+      <rect class="color2" height="2.7" id="svg_133" transform="matrix(0.809 -0.5878 0.5878 0.809 -8.4509 23.2625)" width="0.7" x="31.2" y="23.3"/>
+     </g>
+    </g>
+    <g id="svg_134">
+     <use height="2.7" id="svg_135" overflow="visible" transform="matrix(0.809 -0.5878 -0.5878 -0.809 31.5719 24.6359)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_12_">
+    <g id="svg_136">
+     <g id="svg_137">
+      <rect class="color2" height="2.7" id="svg_138" transform="matrix(0.7431 -0.6691 0.6691 0.7431 -10.4122 26.2775)" width="0.7" x="28.7" y="25.4"/>
+     </g>
+    </g>
+    <g id="svg_139">
+     <use height="2.7" id="svg_140" overflow="visible" transform="matrix(0.7431 -0.6691 -0.6691 -0.7431 29.0216 26.7011)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_14_">
+    <g id="svg_141">
+     <g id="svg_142">
+      <rect class="color2" height="2.7" id="svg_143" transform="matrix(0.6691 -0.7431 0.7431 0.6691 -12.7326 29.4451)" width="0.7" x="26.3" y="27.7"/>
+     </g>
+    </g>
+    <g id="svg_144">
+     <use height="2.7" id="svg_145" overflow="visible" transform="matrix(0.6691 -0.7431 -0.7431 -0.6691 26.7011 29.0216)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_16_">
+    <g id="svg_146">
+     <g id="svg_147">
+      <rect class="color2" height="2.7" id="svg_148" transform="matrix(0.5878 -0.809 0.809 0.5878 -15.3869 32.9452)" width="0.7" x="24.3" y="30.2"/>
+     </g>
+    </g>
+    <g id="svg_149">
+     <use height="2.7" id="svg_150" overflow="visible" transform="matrix(0.5878 -0.809 -0.809 -0.5878 24.6359 31.5719)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_20_">
+    <g id="svg_151">
+     <g id="svg_152">
+      <rect class="color2" height="2.7" id="svg_153" transform="matrix(0.4067 -0.9135 0.9135 0.4067 -21.3565 41.61)" width="0.7" x="21" y="35.9"/>
+     </g>
+    </g>
+    <g id="svg_154">
+     <use height="2.7" id="svg_155" overflow="visible" transform="matrix(0.4067 -0.9135 -0.9135 -0.4067 21.3588 37.2481)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_22_">
+    <g id="svg_156">
+     <g id="svg_157">
+      <rect class="color2" height="2.7" id="svg_158" transform="matrix(0.309 -0.9511 0.9511 0.309 -24.3929 47.0495)" width="0.7" x="19.8" y="39"/>
+     </g>
+    </g>
+    <g id="svg_159">
+     <use height="2.7" id="svg_160" overflow="visible" transform="matrix(0.309 -0.9511 -0.9511 -0.309 20.1828 40.3118)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_24_">
+    <g id="svg_161">
+     <g id="svg_162">
+      <rect class="color2" height="2.7" id="svg_163" transform="matrix(0.2079 -0.9781 0.9781 0.2079 -27.2178 53.352)" width="0.7" x="19" y="42.1"/>
+     </g>
+    </g>
+    <g id="svg_164">
+     <use height="2.7" id="svg_165" overflow="visible" transform="matrix(0.2079 -0.9781 -0.9781 -0.2079 19.3334 43.4816)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_26_">
+    <g id="svg_166">
+     <g id="svg_167">
+      <rect class="color2" height="2.7" id="svg_168" transform="matrix(0.1045 -0.9945 0.9945 0.1045 -29.6142 60.5558)" width="0.7" x="18.5" y="45.4"/>
+     </g>
+    </g>
+    <g id="svg_169">
+     <use height="2.7" id="svg_170" overflow="visible" transform="matrix(0.1045 -0.9945 -0.9945 -0.1045 18.82 46.7229)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_30_">
+    <g id="svg_171">
+     <g id="svg_172">
+      <rect class="color2" height="2.7" id="svg_173" transform="matrix(-0.1045 -0.9945 0.9945 -0.1045 -32.1982 77.563)" width="0.7" x="18.5" y="51.9"/>
+     </g>
+    </g>
+    <g id="svg_174">
+     <use height="2.7" id="svg_175" overflow="visible" transform="matrix(-0.1045 -0.9945 -0.9945 0.1045 18.82 53.2771)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_32_">
+    <g id="svg_176">
+     <g id="svg_177">
+      <rect class="color2" height="2.7" id="svg_178" transform="matrix(-0.2079 -0.9781 0.9781 -0.2079 -31.9305 87.1801)" width="0.7" x="19" y="55.2"/>
+     </g>
+    </g>
+    <g id="svg_179">
+     <use height="2.7" id="svg_180" overflow="visible" transform="matrix(-0.2079 -0.9781 -0.9781 0.2079 19.3334 56.5184)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_34_">
+    <g id="svg_181">
+     <g id="svg_182">
+      <rect class="color2" height="2.7" id="svg_183" transform="matrix(-0.309 -0.9511 0.9511 -0.309 -30.3475 97.3278)" width="0.7" x="19.8" y="58.3"/>
+     </g>
+    </g>
+    <g id="svg_184">
+     <use height="2.7" id="svg_185" overflow="visible" transform="matrix(-0.309 -0.9511 -0.9511 0.309 20.1828 59.6882)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_36_">
+    <g id="svg_186">
+     <g id="svg_187">
+      <rect class="color2" height="2.7" id="svg_188" transform="matrix(-0.4067 -0.9135 0.9135 -0.4067 -27.2807 107.7876)" width="0.7" x="21" y="61.4"/>
+     </g>
+    </g>
+    <g id="svg_189">
+     <use height="2.7" id="svg_190" overflow="visible" transform="matrix(-0.4067 -0.9135 -0.9135 0.4067 21.3588 62.7519)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_40_">
+    <g id="svg_191">
+     <g id="svg_192">
+      <rect class="color2" height="2.7" id="svg_193" transform="matrix(-0.5878 -0.809 0.809 -0.5878 -16.2431 128.58)" width="0.7" x="24.3" y="67.1"/>
+     </g>
+    </g>
+    <g id="svg_194">
+     <use height="2.7" id="svg_195" overflow="visible" transform="matrix(-0.5878 -0.809 -0.809 0.5878 24.6359 68.4281)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_42_">
+    <g id="svg_196">
+     <g id="svg_197">
+      <rect class="color2" height="2.7" id="svg_198" transform="matrix(-0.6691 -0.7431 0.7431 -0.6691 -8.1798 138.3151)" width="0.7" x="26.3" y="69.6"/>
+     </g>
+    </g>
+    <g id="svg_199">
+     <use height="2.7" id="svg_200" overflow="visible" transform="matrix(-0.6691 -0.7431 -0.7431 0.6691 26.7011 70.9784)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_44_">
+    <g id="svg_201">
+     <g id="svg_202">
+      <rect class="color2" height="2.7" id="svg_203" transform="matrix(-0.7431 -0.6691 0.6691 -0.7431 1.5421 147.1899)" width="0.7" x="28.7" y="72"/>
+     </g>
+    </g>
+    <g id="svg_204">
+     <use height="2.7" id="svg_205" overflow="visible" transform="matrix(-0.7431 -0.6691 -0.6691 0.7431 29.0216 73.2989)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_46_">
+    <g id="svg_206">
+     <g id="svg_207">
+      <rect class="color2" height="2.7" id="svg_208" transform="matrix(-0.809 -0.5878 0.5878 -0.809 12.8161 154.8925)" width="0.7" x="31.2" y="74"/>
+     </g>
+    </g>
+    <g id="svg_209">
+     <use height="2.7" id="svg_210" overflow="visible" transform="matrix(-0.809 -0.5878 -0.5878 0.809 31.5719 75.3641)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_50_">
+    <g id="svg_211">
+     <g id="svg_212">
+      <rect class="color2" height="2.7" id="svg_213" transform="matrix(-0.9135 -0.4067 0.4067 -0.9135 39.2895 165.6339)" width="0.7" x="36.9" y="77.3"/>
+     </g>
+    </g>
+    <g id="svg_214">
+     <use height="2.7" id="svg_215" overflow="visible" transform="matrix(-0.9135 -0.4067 -0.4067 0.9135 37.2481 78.6412)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_52_">
+    <g id="svg_216">
+     <g id="svg_217">
+      <rect class="color2" height="2.7" id="svg_218" transform="matrix(-0.9511 -0.309 0.309 -0.9511 53.9856 168.1852)" width="0.7" x="40" y="78.5"/>
+     </g>
+    </g>
+    <g id="svg_219">
+     <use height="2.7" id="svg_220" overflow="visible" transform="matrix(-0.9511 -0.309 -0.309 0.9511 40.3118 79.8172)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_54_">
+    <g id="svg_221">
+     <g id="svg_222">
+      <rect class="color2" height="2.7" id="svg_223" transform="matrix(-0.9781 -0.2079 0.2079 -0.9781 69.2414 168.611)" width="0.7" x="43.1" y="79.3"/>
+     </g>
+    </g>
+    <g id="svg_224">
+     <use height="2.7" id="svg_225" overflow="visible" transform="matrix(-0.9781 -0.2079 -0.2079 0.9781 43.4816 80.6666)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_56_">
+    <g id="svg_226">
+     <g id="svg_227">
+      <rect class="color2" height="2.7" id="svg_228" transform="matrix(-0.9945 -0.1045 0.1045 -0.9945 84.7041 166.7993)" width="0.7" x="46.4" y="79.8"/>
+     </g>
+    </g>
+    <g id="svg_229">
+     <use height="2.7" id="svg_230" overflow="visible" transform="matrix(-0.9945 -0.1045 -0.1045 0.9945 46.7229 81.18)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_60_">
+    <g id="svg_231">
+     <g id="svg_232">
+      <rect class="color2" height="2.7" id="svg_233" transform="matrix(-0.9945 0.1045 -0.1045 -0.9945 114.7481 156.3465)" width="0.7" x="52.9" y="79.8"/>
+     </g>
+    </g>
+    <g id="svg_234">
+     <use height="2.7" id="svg_235" overflow="visible" transform="matrix(-0.9945 0.1045 0.1045 0.9945 53.2771 81.18)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_62_">
+    <g id="svg_236">
+     <g id="svg_237">
+      <rect class="color2" height="2.7" id="svg_238" transform="matrix(-0.9781 0.2079 -0.2079 -0.9781 128.5733 147.8199)" width="0.7" x="56.2" y="79.3"/>
+     </g>
+    </g>
+    <g id="svg_239">
+     <use height="2.7" id="svg_240" overflow="visible" transform="matrix(-0.9781 0.2079 0.2079 0.9781 56.5184 80.6666)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_64_">
+    <g id="svg_241">
+     <g id="svg_242">
+      <rect class="color2" height="2.7" id="svg_243" transform="matrix(-0.9511 0.309 -0.309 -0.9511 141.1201 137.2835)" width="0.7" x="59.3" y="78.5"/>
+     </g>
+    </g>
+    <g id="svg_244">
+     <use height="2.7" id="svg_245" overflow="visible" transform="matrix(-0.9511 0.309 0.309 0.9511 59.6882 79.8172)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_66_">
+    <g id="svg_246">
+     <g id="svg_247">
+      <rect class="color2" height="2.7" id="svg_248" transform="matrix(-0.9135 0.4067 -0.4067 -0.9135 152.065 124.9603)" width="0.7" x="62.4" y="77.3"/>
+     </g>
+    </g>
+    <g id="svg_249">
+     <use height="2.7" id="svg_250" overflow="visible" transform="matrix(-0.9135 0.4067 0.4067 0.9135 62.7519 78.6412)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_70_">
+    <g id="svg_251">
+     <g id="svg_252">
+      <rect class="color2" height="2.7" id="svg_253" transform="matrix(-0.809 0.5878 -0.5878 -0.809 168.0856 96.114)" width="0.7" x="68.1" y="74"/>
+     </g>
+    </g>
+    <g id="svg_254">
+     <use height="2.7" id="svg_255" overflow="visible" transform="matrix(-0.809 0.5878 0.5878 0.809 68.4281 75.3641)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_72_">
+    <g id="svg_256">
+     <g id="svg_257">
+      <rect class="color2" height="2.7" id="svg_258" transform="matrix(-0.7431 0.6691 -0.6691 -0.7431 172.7724 80.2768)" width="0.7" x="70.6" y="72"/>
+     </g>
+    </g>
+    <g id="svg_259">
+     <use height="2.7" id="svg_260" overflow="visible" transform="matrix(-0.7431 0.6691 0.6691 0.7431 70.9784 73.2989)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_74_">
+    <g id="svg_261">
+     <g id="svg_262">
+      <rect class="color2" height="2.7" id="svg_263" transform="matrix(-0.6691 0.7431 -0.7431 -0.6691 175.0928 64.0006)" width="0.7" x="72.9" y="69.6"/>
+     </g>
+    </g>
+    <g id="svg_264">
+     <use height="2.7" id="svg_265" overflow="visible" transform="matrix(-0.6691 0.7431 0.7431 0.6691 73.2989 70.9784)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_76_">
+    <g id="svg_266">
+     <g id="svg_267">
+      <rect class="color2" height="2.7" id="svg_268" transform="matrix(-0.5878 0.809 -0.809 -0.5878 175.0217 47.6783)" width="0.7" x="75" y="67.1"/>
+     </g>
+    </g>
+    <g id="svg_269">
+     <use height="2.7" id="svg_270" overflow="visible" transform="matrix(-0.5878 0.809 0.809 0.5878 75.3641 68.4281)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_80_">
+    <g id="svg_271">
+     <g id="svg_272">
+      <rect class="color2" height="2.7" id="svg_273" transform="matrix(-0.4067 0.9135 -0.9135 -0.4067 167.9544 16.433)" width="0.7" x="78.3" y="61.4"/>
+     </g>
+    </g>
+    <g id="svg_274">
+     <use height="2.7" id="svg_275" overflow="visible" transform="matrix(-0.4067 0.9135 0.9135 0.4067 78.6412 62.7519)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_82_">
+    <g id="svg_276">
+     <g id="svg_277">
+      <rect class="color2" height="2.7" id="svg_278" transform="matrix(-0.309 0.9511 -0.9511 -0.309 161.2492 2.2221)" width="0.7" x="79.5" y="58.3"/>
+     </g>
+    </g>
+    <g id="svg_279">
+     <use height="2.7" id="svg_280" overflow="visible" transform="matrix(-0.309 0.9511 0.9511 0.309 79.8172 59.6882)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_84_">
+    <g id="svg_281">
+     <g id="svg_282">
+      <rect class="color2" height="2.7" id="svg_283" transform="matrix(-0.2079 0.9781 -0.9781 -0.2079 152.7216 -10.6347)" width="0.7" x="80.3" y="55.2"/>
+     </g>
+    </g>
+    <g id="svg_284">
+     <use height="2.7" id="svg_285" overflow="visible" transform="matrix(-0.2079 0.9781 0.9781 0.2079 80.6666 56.5184)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_86_">
+    <g id="svg_286">
+     <g id="svg_287">
+      <rect class="color2" height="2.7" id="svg_288" transform="matrix(-0.1045 0.9945 -0.9945 -0.1045 142.651 -21.8892)" width="0.7" x="80.8" y="51.9"/>
+     </g>
+    </g>
+    <g id="svg_289">
+     <use height="2.7" id="svg_290" overflow="visible" transform="matrix(-0.1045 0.9945 0.9945 0.1045 81.18 53.2771)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_90_">
+    <g id="svg_291">
+     <g id="svg_292">
+      <rect class="color2" height="2.7" id="svg_293" transform="matrix(0.1045 0.9945 -0.9945 0.1045 119.1614 -38.8964)" width="0.7" x="80.8" y="45.4"/>
+     </g>
+    </g>
+    <g id="svg_294">
+     <use height="2.7" id="svg_295" overflow="visible" transform="matrix(0.1045 0.9945 0.9945 -0.1045 81.18 46.7229)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_92_">
+    <g id="svg_296">
+     <g id="svg_297">
+      <rect class="color2" height="2.7" id="svg_298" transform="matrix(0.2079 0.9781 -0.9781 0.2079 106.4266 -44.4627)" width="0.7" x="80.3" y="42.1"/>
+     </g>
+    </g>
+    <g id="svg_299">
+     <use height="2.7" id="svg_300" overflow="visible" transform="matrix(0.2079 0.9781 0.9781 -0.2079 80.6666 43.4816)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_94_">
+    <g id="svg_301">
+     <g id="svg_302">
+      <rect class="color2" height="2.7" id="svg_303" transform="matrix(0.309 0.9511 -0.9511 0.309 93.4912 -48.0561)" width="0.7" x="79.5" y="39"/>
+     </g>
+    </g>
+    <g id="svg_304">
+     <use height="2.7" id="svg_305" overflow="visible" transform="matrix(0.309 0.9511 0.9511 -0.309 79.8172 40.3118)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_96_">
+    <g id="svg_306">
+     <g id="svg_307">
+      <rect class="color2" height="2.7" id="svg_308" transform="matrix(0.4067 0.9135 -0.9135 0.4067 80.6828 -49.7445)" width="0.7" x="78.3" y="35.9"/>
+     </g>
+    </g>
+    <g id="svg_309">
+     <use height="2.7" id="svg_310" overflow="visible" transform="matrix(0.4067 0.9135 0.9135 -0.4067 78.6412 37.2481)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_100_">
+    <g id="svg_311">
+     <g id="svg_312">
+      <rect class="color2" height="2.7" id="svg_313" transform="matrix(0.5878 0.809 -0.809 0.5878 56.6084 -47.9565)" width="0.7" x="75" y="30.2"/>
+     </g>
+    </g>
+    <g id="svg_314">
+     <use height="2.7" id="svg_315" overflow="visible" transform="matrix(0.5878 0.809 0.809 -0.5878 75.3641 31.5719)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_102_">
+    <g id="svg_316">
+     <g id="svg_317">
+      <rect class="color2" height="2.7" id="svg_318" transform="matrix(0.6691 0.7431 -0.7431 0.6691 45.8196 -44.8694)" width="0.7" x="72.9" y="27.7"/>
+     </g>
+    </g>
+    <g id="svg_319">
+     <use height="2.7" id="svg_320" overflow="visible" transform="matrix(0.6691 0.7431 0.7431 -0.6691 73.2989 29.0216)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_104_">
+    <g id="svg_321">
+     <g id="svg_322">
+      <rect class="color2" height="2.7" id="svg_323" transform="matrix(0.7431 0.6691 -0.6691 0.7431 36.0977 -40.6356)" width="0.7" x="70.6" y="25.4"/>
+     </g>
+    </g>
+    <g id="svg_324">
+     <use height="2.7" id="svg_325" overflow="visible" transform="matrix(0.7431 0.6691 0.6691 -0.7431 70.9784 26.7011)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_106_">
+    <g id="svg_326">
+     <g id="svg_327">
+      <rect class="color2" height="2.7" id="svg_328" transform="matrix(0.809 0.5878 -0.5878 0.809 27.5492 -35.516)" width="0.7" x="68.1" y="23.3"/>
+     </g>
+    </g>
+    <g id="svg_329">
+     <use height="2.7" id="svg_330" overflow="visible" transform="matrix(0.809 0.5878 0.5878 -0.809 68.4281 24.6359)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_110_">
+    <g id="svg_331">
+     <g id="svg_332">
+      <rect class="color2" height="2.7" id="svg_333" transform="matrix(0.9135 0.4067 -0.4067 0.9135 14.1125 -23.677)" width="0.7" x="62.4" y="20"/>
+     </g>
+    </g>
+    <g id="svg_334">
+     <use height="2.7" id="svg_335" overflow="visible" transform="matrix(0.9135 0.4067 0.4067 -0.9135 62.7519 21.3588)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_112_">
+    <g id="svg_336">
+     <g id="svg_337">
+      <rect class="color2" height="2.7" id="svg_338" transform="matrix(0.9511 0.309 -0.309 0.9511 9.1581 -17.4569)" width="0.7" x="59.3" y="18.8"/>
+     </g>
+    </g>
+    <g id="svg_339">
+     <use height="2.7" id="svg_340" overflow="visible" transform="matrix(0.9511 0.309 0.309 -0.9511 59.6882 20.1828)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_114_">
+    <g id="svg_341">
+     <g id="svg_342">
+      <rect class="color2" height="2.7" id="svg_343" transform="matrix(0.9781 0.2079 -0.2079 0.9781 5.2547 -11.3284)" width="0.7" x="56.2" y="18"/>
+     </g>
+    </g>
+    <g id="svg_344">
+     <use height="2.7" id="svg_345" overflow="visible" transform="matrix(0.9781 0.2079 0.2079 -0.9781 56.5184 19.3334)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+   <g id="n1_116_">
+    <g id="svg_346">
+     <g id="svg_347">
+      <rect class="color2" height="2.7" id="svg_348" transform="matrix(0.9945 0.1045 -0.1045 0.9945 2.2591 -5.4659)" width="0.7" x="52.9" y="17.5"/>
+     </g>
+    </g>
+    <g id="svg_349">
+     <use height="2.7" id="svg_350" overflow="visible" transform="matrix(0.9945 0.1045 0.1045 -0.9945 53.2771 18.82)" width="0.7" x="-0.4" xlink:href="#_x31__1_" y="-1.3"/>
+    </g>
+   </g>
+  </g>
+  <g id="_x31_0">
+   <g id="n10_6_">
+    <g id="svg_351">
+     <g id="svg_352">
+      <polygon class="st4" id="svg_353" points="51.7,17.3 50,21 48.3,17.3     "/>
+     </g>
+    </g>
+    <g id="svg_354">
+     <use height="3.7" id="svg_355" overflow="visible" transform="matrix(1 0 0 -1 50 19.15)" width="3.4" x="-1.7" xlink:href="#_x31_0_1_" y="-1.9"/>
+    </g>
+   </g>
+   <g id="n10_1_">
+    <g id="svg_356">
+     <g id="svg_357">
+      <polygon class="color2" id="svg_358" points="22.5,32.2 24.9,35.5 20.8,35.1     "/>
+     </g>
+    </g>
+    <g id="svg_359">
+     <use height="3.7" id="svg_360" overflow="visible" transform="matrix(0.5 -0.866 -0.866 -0.5 23.2831 34.575)" width="3.4" x="-1.7" xlink:href="#_x31_0_1_" y="-1.9"/>
+    </g>
+   </g>
+   <g id="n10_3_">
+    <g id="svg_361">
+     <g id="svg_362">
+      <polygon class="color2" id="svg_363" points="20.8,64.9 24.9,64.5 22.5,67.8     "/>
+     </g>
+    </g>
+    <g id="svg_364">
+     <use height="3.7" id="svg_365" overflow="visible" transform="matrix(-0.5 -0.866 -0.866 0.5 23.2831 65.425)" width="3.4" x="-1.7" xlink:href="#_x31_0_1_" y="-1.9"/>
+    </g>
+   </g>
+   <g id="n10_4_">
+    <g id="svg_366">
+     <g id="svg_367">
+      <polygon class="color2" id="svg_368" points="48.3,82.7 50,79 51.7,82.7     "/>
+     </g>
+    </g>
+    <g id="svg_369">
+     <use height="3.7" id="svg_370" overflow="visible" transform="matrix(-1 0 0 1 50 80.85)" width="3.4" x="-1.7" xlink:href="#_x31_0_1_" y="-1.9"/>
+    </g>
+   </g>
+   <g id="n10_7_">
+    <g id="svg_371">
+     <g id="svg_372">
+      <polygon class="color2" id="svg_373" points="77.5,67.8 75.1,64.5 79.2,64.9     "/>
+     </g>
+    </g>
+    <g id="svg_374">
+     <use height="3.7" id="svg_375" overflow="visible" transform="matrix(-0.5 0.866 0.866 0.5 76.7169 65.425)" width="3.4" x="-1.7" xlink:href="#_x31_0_1_" y="-1.9"/>
+    </g>
+   </g>
+   <g id="n10_9_">
+    <g id="svg_376">
+     <g id="svg_377">
+      <polygon class="color2" id="svg_378" points="79.2,35.1 75.1,35.5 77.5,32.2     "/>
+     </g>
+    </g>
+    <g id="svg_379">
+     <use height="3.7" id="svg_380" overflow="visible" transform="matrix(0.5 0.866 0.866 -0.5 76.7169 34.575)" width="3.4" x="-1.7" xlink:href="#_x31_0_1_" y="-1.9"/>
+    </g>
+   </g>
+  </g>
+  <g id="digit_10">
+   <g id="svg_381">
+    <g id="svg_382">
+     <path class="st5" d="m83.2,33.1l-0.6,0l0,-4.1c-0.2,0.1 -0.4,0.3 -0.6,0.4s-0.5,0.3 -0.7,0.3l0,-0.6c0.4,-0.2 0.7,-0.4 0.9,-0.6c0.3,-0.2 0.5,-0.5 0.6,-0.7l0.4,0l0,5.3z" id="svg_383"/>
+     <path class="st5" d="m84.9,30.5c0,-0.6 0.1,-1.1 0.2,-1.5c0.1,-0.4 0.3,-0.7 0.6,-0.9s0.6,-0.3 1,-0.3c0.3,0 0.5,0.1 0.7,0.2c0.2,0.1 0.4,0.3 0.5,0.5c0.1,0.2 0.2,0.5 0.3,0.8c0.1,0.3 0.1,0.7 0.1,1.2c0,0.6 -0.1,1.1 -0.2,1.5c-0.1,0.4 -0.3,0.7 -0.6,0.9c-0.3,0.2 -0.6,0.3 -1,0.3c-0.5,0 -0.9,-0.2 -1.2,-0.5c-0.3,-0.5 -0.4,-1.2 -0.4,-2.2zm0.6,0c0,0.9 0.1,1.4 0.3,1.7s0.5,0.4 0.7,0.4c0.3,0 0.5,-0.1 0.7,-0.4s0.3,-0.9 0.3,-1.7c0,-0.9 -0.1,-1.4 -0.3,-1.7s-0.5,-0.4 -0.8,-0.4c-0.3,0 -0.5,0.1 -0.7,0.4c-0.1,0.3 -0.2,0.9 -0.2,1.7z" id="svg_384"/>
+    </g>
+   </g>
+   <g id="svg_385">
+    <g id="svg_386">
+     <path class="st5" d="m85.2,70.9l0,0.6l-3.5,0c0,-0.2 0,-0.3 0.1,-0.4c0.1,-0.2 0.2,-0.5 0.4,-0.7c0.2,-0.2 0.5,-0.5 0.8,-0.8c0.6,-0.5 1,-0.8 1.2,-1.1c0.2,-0.3 0.3,-0.5 0.3,-0.8c0,-0.3 -0.1,-0.5 -0.3,-0.6c-0.2,-0.2 -0.4,-0.3 -0.7,-0.3c-0.3,0 -0.6,0.1 -0.7,0.3c-0.2,0.2 -0.3,0.4 -0.3,0.8l-0.7,-0.1c0,-0.5 0.2,-0.9 0.5,-1.1c0.3,-0.3 0.7,-0.4 1.2,-0.4c0.5,0 0.9,0.1 1.2,0.4c0.3,0.3 0.4,0.6 0.4,1c0,0.2 0,0.4 -0.1,0.6c-0.1,0.2 -0.2,0.4 -0.4,0.6c-0.2,0.2 -0.5,0.5 -1,0.9c-0.4,0.3 -0.6,0.5 -0.7,0.7c-0.1,0.1 -0.2,0.2 -0.3,0.3l2.6,0l0,0.1z" id="svg_387"/>
+     <path class="st5" d="m85.9,69c0,-0.6 0.1,-1.1 0.2,-1.5c0.1,-0.4 0.3,-0.7 0.6,-0.9s0.6,-0.3 1,-0.3c0.3,0 0.5,0.1 0.7,0.2c0.2,0.1 0.4,0.3 0.5,0.5c0.1,0.2 0.2,0.5 0.3,0.8c0.1,0.3 0.1,0.7 0.1,1.2c0,0.6 -0.1,1.1 -0.2,1.5c-0.1,0.4 -0.3,0.7 -0.6,0.9c-0.3,0.2 -0.6,0.3 -1,0.3c-0.5,0 -0.9,-0.2 -1.2,-0.5c-0.3,-0.5 -0.4,-1.2 -0.4,-2.2zm0.6,0c0,0.9 0.1,1.4 0.3,1.7s0.5,0.4 0.7,0.4c0.3,0 0.5,-0.1 0.7,-0.4s0.3,-0.9 0.3,-1.7c0,-0.9 -0.1,-1.4 -0.3,-1.7s-0.5,-0.4 -0.8,-0.4c-0.3,0 -0.5,0.1 -0.7,0.4c-0.1,0.2 -0.2,0.8 -0.2,1.7z" id="svg_388"/>
+    </g>
+   </g>
+   <g id="svg_389">
+    <g id="svg_390">
+     <path class="st5" d="m46.3,91.2l0.6,-0.1c0.1,0.4 0.2,0.6 0.4,0.8s0.4,0.2 0.6,0.2c0.3,0 0.6,-0.1 0.8,-0.3s0.3,-0.5 0.3,-0.8c0,-0.3 -0.1,-0.5 -0.3,-0.7s-0.3,-0.3 -0.6,-0.3c-0.1,0 -0.3,0 -0.5,0.1l0.1,-0.6c0,0 0.1,0 0.1,0c0.3,0 0.5,-0.1 0.7,-0.2c0.2,-0.1 0.3,-0.4 0.3,-0.7c0,-0.2 -0.1,-0.4 -0.2,-0.6c-0.2,-0.2 -0.4,-0.2 -0.6,-0.2c-0.3,0 -0.5,0.1 -0.6,0.2c-0.2,0.2 -0.3,0.4 -0.3,0.7l-0.6,-0.1c0.1,-0.4 0.3,-0.8 0.5,-1c0.3,-0.2 0.6,-0.4 1,-0.4c0.3,0 0.5,0.1 0.8,0.2c0.2,0.1 0.4,0.3 0.6,0.5c0.1,0.2 0.2,0.4 0.2,0.7c0,0.2 -0.1,0.4 -0.2,0.6c-0.1,0.2 -0.3,0.3 -0.5,0.4c0.3,0.1 0.6,0.2 0.7,0.4s0.3,0.5 0.3,0.8c0,0.5 -0.2,0.8 -0.5,1.2c-0.3,0.3 -0.8,0.5 -1.3,0.5c-0.5,0 -0.8,-0.1 -1.1,-0.4c-0.4,-0.1 -0.6,-0.5 -0.7,-0.9z" id="svg_391"/>
+     <path class="st5" d="m50.4,90c0,-0.6 0.1,-1.1 0.2,-1.5c0.1,-0.4 0.3,-0.7 0.6,-0.9s0.6,-0.3 1,-0.3c0.3,0 0.5,0.1 0.7,0.2c0.2,0.1 0.4,0.3 0.5,0.5c0.1,0.2 0.2,0.5 0.3,0.8c0.1,0.3 0.1,0.7 0.1,1.2c0,0.6 -0.1,1.1 -0.2,1.5c-0.1,0.4 -0.3,0.7 -0.6,0.9c-0.3,0.2 -0.6,0.3 -1,0.3c-0.5,0 -0.9,-0.2 -1.2,-0.5c-0.2,-0.5 -0.4,-1.2 -0.4,-2.2zm0.7,0c0,0.9 0.1,1.4 0.3,1.7s0.5,0.4 0.7,0.4c0.3,0 0.5,-0.1 0.7,-0.4s0.3,-0.9 0.3,-1.7c0,-0.9 -0.1,-1.4 -0.3,-1.7s-0.5,-0.4 -0.8,-0.4c-0.3,0 -0.5,0.1 -0.7,0.4c-0.1,0.2 -0.2,0.8 -0.2,1.7z" id="svg_392"/>
+    </g>
+   </g>
+   <g id="svg_393">
+    <g id="svg_394">
+     <path class="st5" d="m13.2,72.6l0,-1.3l-2.3,0l0,-0.6l2.4,-3.4l0.5,0l0,3.4l0.7,0l0,0.6l-0.7,0l0,1.3l-0.6,0zm0,-1.9l0,-2.4l-1.6,2.4l1.6,0z" id="svg_395"/>
+     <path class="st5" d="m15.2,70c0,-0.6 0.1,-1.1 0.2,-1.5c0.1,-0.4 0.3,-0.7 0.6,-0.9c0.3,-0.2 0.6,-0.3 1,-0.3c0.3,0 0.5,0.1 0.7,0.2c0.2,0.1 0.4,0.3 0.5,0.5c0.1,0.2 0.2,0.5 0.3,0.8c0.1,0.3 0.1,0.7 0.1,1.2c0,0.6 -0.1,1.1 -0.2,1.5c-0.1,0.4 -0.3,0.7 -0.6,0.9c-0.3,0.2 -0.6,0.3 -1,0.3c-0.5,0 -0.9,-0.2 -1.2,-0.5c-0.2,-0.5 -0.4,-1.2 -0.4,-2.2zm0.7,0c0,0.9 0.1,1.4 0.3,1.7c0.2,0.3 0.5,0.4 0.7,0.4c0.3,0 0.5,-0.1 0.7,-0.4c0.2,-0.3 0.3,-0.9 0.3,-1.7c0,-0.9 -0.1,-1.4 -0.3,-1.7c-0.2,-0.3 -0.5,-0.4 -0.8,-0.4c-0.3,0 -0.5,0.1 -0.7,0.4c-0.1,0.2 -0.2,0.8 -0.2,1.7z" id="svg_396"/>
+    </g>
+   </g>
+   <g id="svg_397">
+    <g id="svg_398">
+     <path class="st5" d="m10.2,31.4l0.7,-0.1c0.1,0.3 0.2,0.6 0.3,0.7s0.4,0.2 0.7,0.2c0.3,0 0.6,-0.1 0.8,-0.4c0.2,-0.2 0.3,-0.5 0.3,-0.9c0,-0.4 -0.1,-0.7 -0.3,-0.9c-0.2,-0.2 -0.5,-0.3 -0.8,-0.3c-0.2,0 -0.4,0 -0.6,0.1c-0.2,0.1 -0.3,0.2 -0.4,0.4l-0.6,-0.1l0.5,-2.7l2.6,0l0,0.6l-2.1,0l-0.3,1.4c0.3,-0.2 0.6,-0.3 1,-0.3c0.5,0 0.8,0.2 1.2,0.5c0.3,0.3 0.5,0.7 0.5,1.2c0,0.5 -0.1,0.9 -0.4,1.2c-0.3,0.4 -0.8,0.6 -1.4,0.6c-0.5,0 -0.9,-0.1 -1.2,-0.4c-0.3,0 -0.4,-0.4 -0.5,-0.8z" id="svg_399"/>
+     <path class="st5" d="m14.3,30.2c0,-0.6 0.1,-1.1 0.2,-1.5c0.1,-0.4 0.3,-0.7 0.6,-0.9c0.3,-0.2 0.6,-0.3 1,-0.3c0.3,0 0.5,0.1 0.7,0.2c0.2,0.1 0.4,0.3 0.5,0.5c0.1,0.2 0.2,0.5 0.3,0.8c0.1,0.3 0.1,0.7 0.1,1.2c0,0.6 -0.1,1.1 -0.2,1.5c-0.1,0.4 -0.3,0.7 -0.6,0.9c-0.3,0.2 -0.6,0.3 -1,0.3c-0.5,0 -0.9,-0.2 -1.2,-0.5c-0.2,-0.5 -0.4,-1.2 -0.4,-2.2zm0.7,0c0,0.9 0.1,1.4 0.3,1.7c0.2,0.3 0.5,0.4 0.7,0.4c0.3,0 0.5,-0.1 0.7,-0.4c0.2,-0.3 0.3,-0.9 0.3,-1.7c0,-0.9 -0.1,-1.4 -0.3,-1.7c-0.1,-0.3 -0.4,-0.5 -0.7,-0.5c-0.3,0 -0.5,0.1 -0.7,0.4c-0.2,0.3 -0.3,0.9 -0.3,1.8z" id="svg_400"/>
+    </g>
+   </g>
+   <g id="svg_401">
+    <path class="st5" d="m49.7,9l-0.6,0c-0.1,-0.3 -0.1,-0.4 -0.2,-0.6c-0.2,-0.2 -0.4,-0.3 -0.6,-0.3c-0.2,0 -0.4,0.1 -0.5,0.2c-0.2,0.1 -0.4,0.4 -0.5,0.6c-0.3,0.5 -0.3,0.9 -0.4,1.4c0.2,-0.2 0.3,-0.4 0.6,-0.5c0.2,-0.1 0.5,-0.2 0.7,-0.2c0.4,0 0.8,0.2 1.1,0.5c0.3,0.3 0.5,0.7 0.5,1.2c0,0.3 -0.1,0.6 -0.2,0.9c-0.1,0.3 -0.3,0.5 -0.6,0.7c-0.2,0.2 -0.5,0.2 -0.8,0.2c-0.5,0 -1,-0.2 -1.3,-0.6c-0.3,-0.4 -0.5,-1 -0.5,-2c0,-1 0.2,-1.8 0.6,-2.2c0.3,-0.4 0.8,-0.6 1.3,-0.6c0.4,0 0.8,0.1 1,0.3s0.3,0.6 0.4,1zm-2.7,2.3c0,0.2 0,0.4 0.1,0.6s0.2,0.4 0.4,0.5c0.2,0.1 0.3,0.2 0.5,0.2c0.3,0 0.5,-0.1 0.7,-0.3c0.2,-0.2 0.3,-0.5 0.3,-0.9c0,-0.4 -0.1,-0.6 -0.3,-0.9s-0.4,-0.3 -0.7,-0.3c-0.3,0 -0.5,0.1 -0.7,0.3c-0.1,0.2 -0.3,0.5 -0.3,0.8z" id="svg_402"/>
+    <path class="st5" d="m50.4,10.4c0,-0.6 0.1,-1.1 0.2,-1.5c0.1,-0.4 0.3,-0.7 0.6,-0.9c0.3,-0.2 0.6,-0.3 1,-0.3c0.3,0 0.5,0.1 0.7,0.2s0.4,0.3 0.5,0.5s0.2,0.5 0.3,0.8c0.1,0.3 0.1,0.7 0.1,1.2c0,0.6 -0.1,1.1 -0.2,1.5c-0.1,0.4 -0.3,0.7 -0.6,0.9c-0.3,0.2 -0.6,0.3 -1,0.3c-0.5,0 -0.9,-0.2 -1.2,-0.5c-0.2,-0.5 -0.4,-1.2 -0.4,-2.2zm0.7,0c0,0.9 0.1,1.4 0.3,1.7c0.2,0.3 0.5,0.4 0.7,0.4s0.5,-0.1 0.7,-0.4c0.2,-0.3 0.3,-0.9 0.3,-1.7c0,-0.9 -0.1,-1.4 -0.3,-1.7c-0.2,-0.3 -0.5,-0.4 -0.8,-0.4c-0.3,0 -0.5,0.1 -0.7,0.4c-0.1,0.3 -0.2,0.8 -0.2,1.7z" id="svg_403"/>
+   </g>
+  </g>
+  <text fill="#ffffff" font-family="Serif" font-size="24" id="svg_404" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.300211 0 0 0.300211 18.9922 -10.8654)" x="30.17" xml:space="preserve" y="96.65">45</text>
+  <text fill="#ffffff" font-family="Serif" font-size="24" id="svg_405" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.300211 0 0 0.300211 60.9417 -11.0224)" x="32.43" xml:space="preserve" y="96.65">05</text>
+  <text fill="#ffffff" font-family="Serif" font-size="24" id="svg_406" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.300211 0 0 0.300211 78.5688 23.8929)" x="38.08" xml:space="preserve" y="94.4">15</text>
+  <text fill="#ffffff" font-family="Serif" font-size="24" id="svg_407" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.300211 0 0 0.300211 -1.77019 24.0624)" x="38.08" xml:space="preserve" y="94.4">45</text>
+  <text fill="#ffffff" font-family="Serif" font-size="24" id="svg_408" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.300211 0 0 0.300211 15.6874 58.9776)" x="42.59" xml:space="preserve" y="94.96">35</text>
+  <text fill="#ffffff" font-family="Serif" font-size="24" id="svg_409" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.300211 0 0 0.300211 60.0942 61.181)" x="33.56" xml:space="preserve" y="88.75">25</text>
+ </g>
+</svg>

@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+    <title>1-click timer</title>
+    <link rel="icon" type="image/png" href="img/logo-16.png">
+    <link inline="" rel="stylesheet" href="styles/popup.css">
+</head>
+
+<body ng-class="{'menu-visible': menuVisible}">
+    <main ng-controller="PopupController">
+        <div id="face">
+            <div id="minute" ng-style="{transform: getRotationAngle(remainingTime.mf)}"></div>
+            <div id="second" ng-hide="isMinuteSetting" ng-style="{transform: getRotationAngle(remainingTime.s)}"></div>
+            <div id="minute-number" ng-show="isRunning"> <span ng-bind="msToShortMin(motorTime)"></span> </div>
+            <div id="minute-set" ng-show="isMinuteSetting" ng-style="{transform: getRotationAngle(minuteSet)}"></div>
+            <div id="minute-set-number" ng-show="isMinuteSetting"> <span ng-bind="minuteSet"></span> </div>
+            <div id="minute-area" ng-mouseenter="isMinuteSetting = true" ng-mouseleave="isMinuteSetting = false"
+                ng-mousemove="moveMinuteSet($event)" ng-click="start(minuteSet * 60000)"> </div> <button id="center-btn"
+                title="Reset timer to 0" ng-click="reset()" ng-class="{'minute-set': isMinuteSetting}"> <span
+                    class="fa fa-close"></span> </button> <button id="show-menu-btn" ng-click="menuVisible = true"> <i
+                    class="fa fa-chevron-down"></i> </button> <button id="full-screen-btn" ng-click="goBigger()"
+                title="Open in a tab"> <i class="fa fa-arrows-alt"></i> </button> <button id="pause-resume-btn"
+                ng-click="motorControlBtn()"> <img ng-class="{'animate-cog': isRunning}" src="img/cog.svg"> </button>
+            <button id="repeat-btn" title="Repeat the last timer" ng-click="restart()"> <i class="fa fa-history"></i>
+            </button> <button id="mute-unmute-btn" title="Alarm sound"
+                ng-click="alarmControlsVisible = !alarmControlsVisible;"> <i ng-show="isMuted"
+                    class="fa fa-bell-slash-o"></i> <i ng-hide="isMuted" class="fa fa-bell-o"></i> </button> <button
+                id="volume-mute-btn" class="animated" title="Mute" ng-show="alarmControlsVisible"
+                ng-click="volume = 0; alarmControlsVisible = false;"> <i class="fa fa-bell-slash-o"></i> </button>
+            <button id="volume-low-btn" class="animated" title="Low" ng-show="alarmControlsVisible"
+                ng-click="volume = 20; alarmControlsVisible = false;"> <span class="fa fa-volume-down"></span> </button>
+            <button id="volume-high-btn" class="animated" title="High" ng-show="alarmControlsVisible"
+                ng-click="volume = 100; alarmControlsVisible = false;"> <span class="fa fa-volume-up"></span> </button>
+        </div>
+        <div id="menu" ng-show="menuVisible" ng-animate=""> <button id="menu-btn-hide" title="Hide menu"
+                ng-click="menuVisible = false"> <i class="fa fa-chevron-up"></i> </button> <button
+                id="menu-btn-alarm-soothing" title="Guitar tones" ng-click="setAlarmSignal(0)"> <i
+                    class="fa fa-music"></i> </button> <button id="menu-btn-alarm-classic" title="Classic sound"
+                ng-click="setAlarmSignal(1)"> <i class="fa fa-clock-o"></i> </button> <button id="menu-btn-alarm-hard"
+                title="Alarming sound" ng-click="setAlarmSignal(2)"> <i class="fa fa-bolt"></i> </button> <button
+                id="menu-btn-support-bug" title="Report bugs" target="_blank"
+                ng-click="openLink('https://chrome.google.com/webstore/detail/1-click-timer/igloknlllonknnbkfgggfkigmeegmakf/support')">
+                <i class="fa fa-bug"></i> </button> <button id="menu-btn-support-review" title="Write a review"
+                target="_blank"
+                ng-click="openLink('https://chrome.google.com/webstore/detail/1-click-timer/igloknlllonknnbkfgggfkigmeegmakf/reviews')">
+                <i class="fa fa-star"></i> </button> <button id="menu-btn-support-feature" title="Request for a feature"
+                target="_blank"
+                ng-click="openLink('https://chrome.google.com/webstore/detail/1-click-timer/igloknlllonknnbkfgggfkigmeegmakf/support')">
+                <i class="fa fa-smile-o"></i> </button> <button id="menu-btn-share-twitter" title="Share on Twitter"
+                target="_blank"
+                ng-click="openLink('https://twitter.com/home?status=Checkout%201-click%20timer:%20goo.gl/Mvqy53%20by%20%40alexewerlof')">
+                <i class="fa fa-twitter"></i> </button> <button id="menu-btn-share-facebook" title="Share on Facebook"
+                target="_blank"
+                ng-click="openLink('https://www.facebook.com/sharer/sharer.php?u=https://chrome.google.com/webstore/detail/1-click-timer/igloknlllonknnbkfgggfkigmeegmakf')">
+                <i class="fa fa-facebook"></i> </button> <button id="menu-btn-share-google" title="Share on Google+"
+                target="_blank"
+                ng-click="openLink('https://plus.google.com/share?url=https://chrome.google.com/webstore/detail/1-click-timer/igloknlllonknnbkfgggfkigmeegmakf')">
+                <i class="fa fa-google-plus"></i> </button> <button id="menu-btn-link-userpixel" title="UserPixel"
+                target="_blank" ng-click="openLink('https://www.userpixel.com')"> <i class="fa fa-link"></i> </button>
+            <div class="version" ng-bind="version"></div>
+        </div>
+    </main>
+    <script inline="" src="js/popup-bundle.js"></script>
+</body>
+
+</html>
